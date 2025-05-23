@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Ce projet explore la relation entre la durée de scolarisation et le taux de satisfaction d’élèves issus :
 - d’une école démocratique (Summerhill)
@@ -14,13 +14,13 @@ Il illustre l’usage de **`ggplot2` dans R** pour visualiser une hypothèse qua
 
 ---
 
-## 📊 Résultat graphique
+## Résultat graphique
 
 ![Graphique de satisfaction](satisfaction_summerhill.png)
 
 ---
 
-## 🧠 Compétences démontrées
+## Compétences 
 
 - Création d’un `data.frame` à partir de données qualitatives
 - Utilisation de `ggplot2` pour créer une visualisation claire
@@ -30,7 +30,7 @@ Il illustre l’usage de **`ggplot2` dans R** pour visualiser une hypothèse qua
 
 ---
 
-## 🗂 Fichiers
+## Fichiers
 
 - `summerhill_analysis_final.R` : code complet et reproductible
 - `satisfaction_summerhill.png` : graphique exporté
