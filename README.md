@@ -26,7 +26,6 @@ Il illustre l’usage de **`ggplot2` dans R** pour visualiser une hypothèse qua
 - Utilisation de `ggplot2` pour créer une visualisation claire
 - Export en `.png` avec `ggsave()`
 - Structuration reproductible dans un script R
-- Documentation lisible et rigoureuse
 
 ---
 
